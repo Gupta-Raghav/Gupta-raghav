@@ -26,5 +26,5 @@
 
 <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=gupta-raghav&show_icons=true&locale=en&layout=compact" alt="gupta-raghav" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=gupta-raghav&" alt="gupta-raghav" /></p>
+
 
