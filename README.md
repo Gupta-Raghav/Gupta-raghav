@@ -3,9 +3,11 @@
 <h3 align="center">A passionate software developer from India</h3>
 <img align="right" alt="Coding" width="400" src=https://stories.freepiklabs.com/storage/33983/code-typing-pana-4839.png>
 
-- 🔭 I’m currently working on **Twitter**
+- 🔭 I’m currently working on **Twitter Clone and my portfolio Website**
 
-- 👯 I’m looking to collaborate on **Front-end project**
+- 🌱 I’m currently learning `MERN Stack`
+
+- 👯 I’m looking to collaborate for `Dev Projects`
 
 - 💬 Ask me about **react, mongo, erlang, c++**
 
