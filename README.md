@@ -3,7 +3,9 @@
 <h3 align="center">A passionate software developer from India</h3>
 <img align="right" alt="Coding" width="400" src=https://stories.freepiklabs.com/storage/33983/code-typing-pana-4839.png>
 
-- 🔭 I’m currently working on **Twitter Clone and my portfolio Website**
+Check out my work on my protfolio website: <a href="guptaraghav.tech" target="blank">portfolio</a>
+
+- 🔭 I’m currently working on **collaborative platforms** 
 
 - 🌱 I’m currently learning `MERN Stack`
 
